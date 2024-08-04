@@ -1,8 +1,0 @@
-reg = regressor
-ts = raw timeseries
-nts = normalized timeseries
-rts = regressed out timeseries (residuals of OLS, only nuisance regressors are regressed out)
-
-??s = network-wise sorted. A sorted corr.npy is a square 2D array. For example, 09s in /Users/clmn/Desktop/GL_FS/GLFS02/connectivity/correlations/Shen268/09/09s.FB.group.main.002.
-
-int = intersection
